@@ -31,7 +31,7 @@
         "laravel/tinker": "^2.9",
         "marjose123/filament-lockscreen": "^2.0",
         "owen-it/laravel-auditing": "^13.6",
-        "psr/simple-cache": "2.0",
+        "psr/simple-cache": "3.0.0",
         "pxlrbt/filament-excel": "^2.3",
         "rappasoft/laravel-authentication-log": "^4.0",
         "sentry/sentry-laravel": "^4.10",
